@@ -36,15 +36,17 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/felipe-zandonadi-dos-santos-3490162b4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:zhifelipe@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://medium.com/@zandonadi-felipe" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-</p>
+  <br><br>
+  ✉️ <strong>zhifelipe@gmail.com</strong>
+</div>
 
 
 <p align="center">
